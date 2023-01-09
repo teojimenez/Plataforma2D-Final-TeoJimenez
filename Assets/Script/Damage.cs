@@ -26,5 +26,9 @@ public class Damage : MonoBehaviour
         {
             FindObjectOfType<Player>().Muerte();  
         }
+        if (collision.tag == "PlayerGym")
+        {
+            FindObjectOfType<Player>().Muerte();
+        }
     }
 }

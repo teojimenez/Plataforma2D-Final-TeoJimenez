@@ -216,7 +216,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 16591533}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -1006,7 +1006,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 133781230}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1581,7 +1581,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 190853916}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1698,7 +1698,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 223205299}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -1954,7 +1954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 268645563}
   - component: {fileID: 268645564}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2544,7 +2544,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 375838133}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2662,7 +2662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 401030830}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -2693,7 +2693,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 402530481}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2934,7 +2934,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 433749658}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2967,7 +2967,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 447616098}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3018,11 +3018,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 96.00065
+      value: 61.86
       objectReference: {fileID: 0}
     - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.7115152
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3068,7 +3068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 461864310}
   - component: {fileID: 461864311}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3348,7 +3348,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 487956085}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.09, y: -3.18, z: 0}
+  m_LocalPosition: {x: -19.98, y: -3.27, z: 0}
   m_LocalScale: {x: 0.9354, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3717,7 +3717,7 @@ GameObject:
   - component: {fileID: 540924242}
   - component: {fileID: 540924241}
   - component: {fileID: 540924240}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(5)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -3901,7 +3901,7 @@ GameObject:
   - component: {fileID: 565751881}
   - component: {fileID: 565751880}
   - component: {fileID: 565751879}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(2)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -4113,7 +4113,7 @@ GameObject:
   - component: {fileID: 595285106}
   - component: {fileID: 595285109}
   - component: {fileID: 595285108}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: 0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38843,7 +38843,7 @@ GameObject:
   - component: {fileID: 632824662}
   - component: {fileID: 632824664}
   - component: {fileID: 632824663}
-  m_Layer: 4
+  m_Layer: 0
   m_Name: -2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72271,7 +72271,7 @@ GameObject:
   - component: {fileID: 698466504}
   - component: {fileID: 698466503}
   - component: {fileID: 698466502}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(1)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -72815,7 +72815,7 @@ GameObject:
   - component: {fileID: 760375291}
   - component: {fileID: 760375290}
   - component: {fileID: 760375289}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(4)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -72908,7 +72908,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 771305679}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -72940,7 +72940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 786029622}
   - component: {fileID: 786029623}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73024,7 +73024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 788943014}
   - component: {fileID: 788943015}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73191,7 +73191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 846591392}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -73643,7 +73643,7 @@ SpriteRenderer:
   m_Size: {x: 0.725, y: 0.725}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &882239933
@@ -73922,7 +73922,7 @@ GameObject:
   - component: {fileID: 923888860}
   - component: {fileID: 923888862}
   - component: {fileID: 923888863}
-  m_Layer: 4
+  m_Layer: 0
   m_Name: -1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76758,7 +76758,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 988194542}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: plataformas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76825,7 +76825,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1024184620}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -77299,7 +77299,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1114300279}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77332,7 +77332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1129109884}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: puntos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77356,63 +77356,6 @@ Transform:
   m_Father: {fileID: 988194542}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1140669496
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2042445296}
-    m_Modifications:
-    - target: {fileID: 5290643603238777696, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_Name
-      value: PowerUp
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_RootOrder
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 5.055485
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.6074214
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.40210116
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
 --- !u!1 &1145284849
 GameObject:
   m_ObjectHideFlags: 0
@@ -77594,7 +77537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1169830048}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -77974,7 +77917,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1194685232}
   - component: {fileID: 1194685233}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78053,11 +77996,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3763036413564785968, guid: 9232df1a0176e3747be99b53a1192066, type: 3}
   m_PrefabInstance: {fileID: 934161895}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1220059002 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5290643603238777703, guid: f3f31af015e380540b3daf5a26dadfc0, type: 3}
-  m_PrefabInstance: {fileID: 1140669496}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1231511876
 GameObject:
   m_ObjectHideFlags: 0
@@ -78067,7 +78005,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1231511877}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -78101,7 +78039,7 @@ GameObject:
   - component: {fileID: 1237458643}
   - component: {fileID: 1237458642}
   - component: {fileID: 1237458641}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(3)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -78510,7 +78448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1249276027}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -78585,7 +78523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1267959614}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -78627,7 +78565,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1275668841}
   - component: {fileID: 1275668842}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78711,7 +78649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1285754846}
   - component: {fileID: 1285754847}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78998,7 +78936,7 @@ GameObject:
   - component: {fileID: 1305116191}
   - component: {fileID: 1305116190}
   - component: {fileID: 1305116189}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(7)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -79405,7 +79343,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1340385868}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -79520,7 +79458,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1358510169}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -79635,7 +79573,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1365058892}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -79826,7 +79764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1378729873}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 'puntos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80234,7 +80172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1416147971}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -81273,7 +81211,7 @@ GameObject:
   - component: {fileID: 1525131212}
   - component: {fileID: 1525131211}
   - component: {fileID: 1525131210}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(6)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -81712,7 +81650,7 @@ GameObject:
   - component: {fileID: 1565543507}
   - component: {fileID: 1565543506}
   - component: {fileID: 1565543505}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: PlataformaMovil(8)
   m_TagString: Plataforma
   m_Icon: {fileID: 0}
@@ -83526,7 +83464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1866369202}
   - component: {fileID: 1866369203}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83609,7 +83547,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1883416888}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -85132,7 +85070,7 @@ SpriteRenderer:
   m_Size: {x: 0.45, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2028187390
@@ -85204,12 +85142,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 15
-  pruebaLlave: {fileID: 882239932}
   score: 0
   muerto: 0
   spawnPlayer: {fileID: 487956087}
   spawnBandera: {fileID: 1484630293}
   force: 110
+  Arma1: 0
+  Arma2: 0
+  lanza: {fileID: 0}
+  flecha: {fileID: 0}
+  mainLanza: {fileID: 0}
+  mainBow: {fileID: 0}
   spriteRojo: {fileID: 1484630292}
   spriteVerde: {fileID: 1920955766}
 --- !u!114 &2028187396
@@ -85243,7 +85186,7 @@ MonoBehaviour:
   lenght: 0.85
   mask:
     serializedVersion: 2
-    m_Bits: 1847
+    m_Bits: 2614
   originPoints:
   - {x: 0, y: 0, z: 0}
   - {x: -0.1, y: 0.05, z: 0}
@@ -85343,7 +85286,6 @@ Transform:
   - {fileID: 351749908}
   - {fileID: 1730864289}
   - {fileID: 1324753768}
-  - {fileID: 1220059002}
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

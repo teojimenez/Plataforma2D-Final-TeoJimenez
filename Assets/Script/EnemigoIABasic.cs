@@ -20,7 +20,7 @@ public class EnemigoIABasic : MonoBehaviour
     {
         //Player = GameObject.FindGameObjectWithTag("Player");
         spriteRenderer = GetComponent<SpriteRenderer>(); 
-        collider = GetComponent<BoxCollider2D>();
+        collider = GetComponent<BoxCollider2D>(); 
     }
 
     // Update is called once per frame
@@ -97,7 +97,7 @@ public class EnemigoIABasic : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            Debug.Log("Toque");
+            
             FindObjectOfType<Player>().Muerte();
             //wait();
         }
