@@ -26,18 +26,6 @@ public class EnemigoIABasic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //StartCoroutine(flip());
-
-        IEnumerator flip()
-        {
-            if (waitTime == 0)
-            {
-                Debug.Log("Estoy dentro");
-                spriteRenderer.flipX = true;
-                yield return new WaitForSeconds(waitTime);
-                spriteRenderer.flipX = false;
-            }
-        }
 
         StartCoroutine(CheckEnemyMoving());
         transform.position = Vector2.MoveTowards(transform.position, spots[i].transform.position, speed * Time.deltaTime);

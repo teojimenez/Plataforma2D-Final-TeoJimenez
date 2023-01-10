@@ -21,7 +21,7 @@ public class teleport : MonoBehaviour
         {
             rb.velocity = new Vector2(0, 0);
             Player.transform.position = whereT.transform.position;
-            Debug.Log("teleport");
+            //Debug.Log("teleport");
             StartCoroutine(waitToUse());
 
         }

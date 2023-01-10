@@ -41,7 +41,7 @@ public class DoorItems : MonoBehaviour
         if ( collision.tag == "Player")
         {
             isEnter= true;
-            Debug.Log("que es???"+ isEnter);
+            //Debug.Log("que es???"+ isEnter);
         }
     }
 

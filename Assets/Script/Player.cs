@@ -152,7 +152,7 @@ public class Player : MonoBehaviour
             flecha.SetActive(false);
             mainLanza.SetActive(true);
             mainBow.SetActive(false);
-            Debug.Log("1 apretado y lanza es" + Arma1 + "; shuriken es" + Arma2);
+            //Debug.Log("1 apretado y lanza es" + Arma1 + "; shuriken es" + Arma2);
         }
         if (Input.GetKeyUp(KeyCode.Alpha2))
         {
@@ -162,7 +162,7 @@ public class Player : MonoBehaviour
             flecha.SetActive(true);
             mainLanza.SetActive(false);
             mainBow.SetActive(true);
-            Debug.Log("2 apretado y lanza es" + Arma1 + "; shuriken es" + Arma2);
+            //Debug.Log("2 apretado y lanza es" + Arma1 + "; shuriken es" + Arma2);
         }
     }
     public void AnimMuerte()
