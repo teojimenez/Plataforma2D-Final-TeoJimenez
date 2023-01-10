@@ -41,6 +41,8 @@ public class Player : MonoBehaviour
 
         transform.position = spawnPlayer.transform.position;
         spriteVerde.enabled = false;
+        spriteVerde2.enabled = false;
+        spriteVerde3.enabled = false;
         mainBow.SetActive(false);
 
         Arma1 = true;
@@ -75,11 +77,11 @@ public class Player : MonoBehaviour
         }
         if (collision.tag == "enemigoEspecial")
         {
-            GameManager.instance.score = GameManager.instance.score + 50;
+            GameManager.instance.score = GameManager.instance.score + 10;
         }
         if (collision.tag == "enemigo")
         {
-            GameManager.instance.score = GameManager.instance.score + 10;
+            GameManager.instance.score = GameManager.instance.score + 5;
         }
         if (collision.tag == "key")
         {

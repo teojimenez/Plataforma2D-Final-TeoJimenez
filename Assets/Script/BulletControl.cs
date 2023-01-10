@@ -29,6 +29,11 @@ public class BulletControl : MonoBehaviour
             collision.gameObject.GetComponent<EnemigoIABasic>().Muerte();
             Destroy(gameObject);
         }
+        if (collision.gameObject.CompareTag("enemigoEspecial"))
+        {
+            collision.gameObject.GetComponent<EnemigoIABasic>().Muerte();
+            Destroy(gameObject);
+        }
 
         ////EnemigoMuerte.MuerteEnemigo();
         //enemigoIABasic.vidaEnemigo = enemigoIABasic.vidaEnemigo - 1; //resta 1 de vida

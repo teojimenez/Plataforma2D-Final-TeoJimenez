@@ -38,5 +38,9 @@ public class Sword : MonoBehaviour
         {
             collision.gameObject.GetComponent<EnemigoIABasic>().Muerte();
         }
+        if (collision.gameObject.CompareTag("enemigoEspecial"))
+        {
+            collision.gameObject.GetComponent<EnemigoIABasic>().Muerte();
+        }
     }
 }
